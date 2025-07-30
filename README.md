@@ -1,3 +1,22 @@
+# Mission Statement for the Centralized Relational Database System
+
+To design, implement, and maintain a centralized relational database system that integrates accounting, supplier, POS, and spreadsheet data into a unified, scalable, and accessible platform.
+This system will enable operational efficiency, ensure data consistency and accuracy across all franchise locations, and empower executives with timely, data-driven insights to support national expansion and strategic decision-making.
+
+# Mission Objectives – Centralized Database System
+1. To Maintain
+   Staff, outlet, product, customer, and sales data from spreadsheets, CSVs, and POS systems.
+2. To Track
+   Daily sales transactions by outlet, staff, product, and customer.
+3. To Perform Searches On
+   Customer profiles, sales trends, product performance, and staff activity.
+4. To Report On
+   Sales performance, outlet profitability, customer trends, and executive KPIs.
+6. To Integrate
+    Disparate data sources into a clean, unified relational schema.
+6. To Export
+    Filtered datasets to staging databases for analytics and reporting.
+
 # Retail Sales Database Schema
 
 This PostgreSQL schema defines a retail sales database designed to track customers, products, sales transactions, and staff operations across multiple sales outlets. The schema was auto-generated using pgAdmin 4's ERD tool.
